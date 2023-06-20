@@ -9,7 +9,7 @@ public class fuct{
     public static void main(String aegs[]){
         me();
         live();  
-          
+        System.out.println(Math.pow(10, 2));
 
     }
 }
