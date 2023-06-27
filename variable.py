@@ -1,0 +1,10 @@
+num1=2
+print(num1)
+num1=8
+print(num1)
+name="anukool"
+print(name)
+name=234
+print(name)
+_name="anu"
+print(_name)
