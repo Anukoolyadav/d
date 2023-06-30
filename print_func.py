@@ -1,0 +1,5 @@
+print("Hello world")
+print('Hello world')
+print("Hello 'world' for ")
+print('hello "world" for')
+print("i m anukool")
